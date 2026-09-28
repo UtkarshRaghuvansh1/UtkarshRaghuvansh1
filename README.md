@@ -1,32 +1,42 @@
-# Hi, I'm Utkarsh 👋
+# Hi, I'm Utkarsh Raghuvanshi 👋
 
-**Software Engineering at GE HealthCare** · Bengaluru, India
+**Software Engineer at GE HealthCare** · Bengaluru, India
 
-I build frontend experiences and developer tools, with a growing focus on healthcare software and agentic AI. I enjoy turning complex workflows into clear, reliable products.
+I build reliable software for complex products, currently working on healthcare
+imaging applications using TypeScript, 3D geometry, and MVC architecture. I also
+develop applied-AI tools—including MCP integrations, AI-assisted code review,
+and multi-agent engineering workflows.
+
+[View my portfolio](https://personal-portfolio-utkarsh-raghuvanshis-projects-d80707eb.vercel.app/)
 
 ### What I’m working on
 
-- Software for medical imaging applications at GE HealthCare
-- AI-assisted coding workflows that investigate issues, search code, and propose fixes and tests
-- Developer tooling with TypeScript, Python, MCP, and local language models
+- Building Cross-Reference Line (CRL) and Orthogonal Reference Line (ORL)
+  features for healthcare imaging applications
+- Applying 3D geometry calculations using TypeScript and MVC architecture
+- Integrating GitLab and Rally MCP servers with engineering workflows
+- Building an AI-assisted merge-request review tool using enterprise-hosted AI
+- Exploring multi-agent systems for frontend modernization and CSS migration
+- Learning and building with Python, RAG, LangChain, and LangGraph
 
+### Experience highlights
 
-  ## About me - https://personal-portfolio-utkarsh-raghuvanshis-projects-d80707eb.vercel.app/
+- **GE HealthCare:** Healthcare imaging, TypeScript, 3D geometry, MCP integrations,
+  developer tooling, and applied AI
+- **FICO:** Built React and TypeScript interfaces handling 1M+ rows, improved
+  reporting performance, reduced automated test execution time by 40%, and
+  received multiple Spot Awards
 
-### Selected projects
+### Technology stack
 
-| Project | What it shows |
-| --- | --- |
-| [Issue-to-fix planner](https://github.com/UtkarshRaghuvansh1/mini-claude-agent) | A read-only TypeScript agent that investigates GitHub issues and produces cited fix and test plans |
-| [Microfrontend e-commerce app](https://github.com/UtkarshRaghuvansh1/E-commerce-Microfrontend) | Frontend composition with Webpack Module Federation |
-| [Personal portfolio](https://github.com/UtkarshRaghuvansh1/personal-portfolio) | More about my experience, work, and projects |
+- **Frontend:** TypeScript, JavaScript, React, Next.js, Redux, HTML, CSS
+- **Backend:** Python, FastAPI, SQL, PostgreSQL, REST APIs
+- **AI:** MCP, RAG, LangChain, LangGraph, AI agents, local language models
+- **Testing:** Cypress, Jest, Mocha, Chai, Sinon
+- **Tools:** Git, GitHub, GitLab, Docker, Jenkins, Rally
 
-### Background
+ ### Learn more
 
-Before GE HealthCare, I worked at FICO on analytics interfaces, frontend performance, testing, and full-stack features. I graduated from KIIT University with a B.Tech in Information Technology.
-
-**Tools I use:** TypeScript · JavaScript · React · Next.js · Python · FastAPI · PostgreSQL · Cypress · Jest · Git · Docker
-
-### Connect
-
-[Portfolio](https://personal-portfolio-utkarsh-raghuvanshis-projects-d80707eb.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/utkarsh-raghuvanshi-46b11720a/)
+🌐 [Personal portfolio](https://personal-portfolio-utkarsh-raghuvanshis-projects-d80707eb.vercel.app/)  
+💼 [LinkedIn](https://www.linkedin.com/in/utkarsh-raghuvanshi-46b11720a/)  
+🧩 [LeetCode](https://leetcode.com/u/utkarshRagh3003/)
