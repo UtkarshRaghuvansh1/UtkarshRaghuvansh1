@@ -1,6 +1,6 @@
 # Hi, I'm Utkarsh 👋
 
-**Software Engineering Specialist at GE HealthCare** · Bengaluru, India
+**Software Engineering at GE HealthCare** · Bengaluru, India
 
 I build frontend experiences and developer tools, with a growing focus on healthcare software and agentic AI. I enjoy turning complex workflows into clear, reliable products.
 
@@ -9,6 +9,9 @@ I build frontend experiences and developer tools, with a growing focus on health
 - Software for medical imaging applications at GE HealthCare
 - AI-assisted coding workflows that investigate issues, search code, and propose fixes and tests
 - Developer tooling with TypeScript, Python, MCP, and local language models
+
+
+  ## About me - https://personal-portfolio-utkarsh-raghuvanshis-projects-d80707eb.vercel.app/
 
 ### Selected projects
 
