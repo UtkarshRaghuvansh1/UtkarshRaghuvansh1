@@ -26,4 +26,4 @@ Before GE HealthCare, I worked at FICO on analytics interfaces, frontend perform
 
 ### Connect
 
-[Portfolio](https://personal-
+[Portfolio](https://personal-portfolio-utkarsh-raghuvanshis-projects-d80707eb.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/utkarsh-raghuvanshi-46b11720a/)
